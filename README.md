@@ -24,14 +24,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 📊 Моя статистика на GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1shanyaaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1shanyaaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+## 📊 Моя статистика GitHub
 
-<br>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=M1shanyaaa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+    width="48%"
+  />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1shanyaaa&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1shanyaaa&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=M1shanyaaa&theme=radical&hide_border=true"
+  />
+</p>
