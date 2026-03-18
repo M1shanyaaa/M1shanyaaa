@@ -25,3 +25,6 @@
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=M1shanyaaa&show_icons=true&theme=merko" alt="M1shanyaaa" height="160" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M1shanyaaa&theme=merko" alt="M1shanyaaa" height="160" /><br><br><br><br><br><br><br></p>
+
