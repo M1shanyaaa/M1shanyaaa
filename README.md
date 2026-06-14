@@ -8,8 +8,8 @@
 
 ### 👨‍💻 Про мене
 * 🎓 Студент 3 курсу **КПІ ім. Ігоря Сікорського** (спеціальність 123 - Комп'ютерна інженерія). 
-* 📚 Додатково проходжу курси від EPAM University.
-* 🧠 Захоплююсь **Штучним інтелектом (AI)** та **Комп'ютерним зором (Computer Vision)**. Маю досвід у Data Science (сертифікат від Sigma Software).
+* 📚 Student компанії EPAM.
+* 🧠 Захоплююсь **Штучним інтелектом (AI)** та **Комп'ютерним зором (Computer Vision)**.
 * 🚀 Розробляю на: **Java (Spring Boot, Servlets), Python (OpenCV), PostgreSQL, Docker** у середовищі **Linux**.
 * 📫 Як зі мною зв'язатися: [Твій Email](mailto:ribacokmisa@gmail.com) або [LinkedIn](https://www.linkedin.com/in/mykhailo-rybachok-3b548b344/).
 
