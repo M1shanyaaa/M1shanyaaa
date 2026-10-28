@@ -2,15 +2,16 @@
 # Привіт, я Mishanya! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=550&lines=Software+Engineering+Student;Java+%26+Python+Developer;Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=550&lines=Software+Engineering+Junior;Java+%26+Python+Developer" alt="Typing SVG" />
 </a>
 
 
 ### 👨‍💻 Про мене
-* 🎓 Студент 3 курсу **КПІ ім. Ігоря Сікорського** (спеціальність 123 - Комп'ютерна інженерія). 
-* 📚 Student компанії EPAM.
+* 🎓 Студент 4 курсу **КПІ ім. Ігоря Сікорського** (спеціальність 123 - Комп'ютерна інженерія). 
+* 📚 Junior Software Developer компанії EPAM.
 * 🧠 Захоплююсь **Штучним інтелектом (AI)** та **Комп'ютерним зором (Computer Vision)**.
 * 🚀 Розробляю на: **Java (Spring Boot, Servlets), Python (OpenCV), PostgreSQL, Docker** у середовищі **Linux**.
+* 📚 English B2.
 * 📫 Як зі мною зв'язатися: [Твій Email](mailto:ribacokmisa@gmail.com) або [LinkedIn](https://www.linkedin.com/in/mykhailo-rybachok-3b548b344/).
 
 ### 🛠 Мій стек технологій
